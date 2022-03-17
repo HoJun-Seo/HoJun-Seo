@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=HoJun%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoJun-Seo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns6659">
 
+## :computer: Tech Stack :computer:
+<img src="https://img.shields.io/badge/Spring Boot-brightgreen?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-yellowgreen?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-informational?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-black?style=flat-square&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/Mybatis-blueviolet?style=flat-square&logo=mybatis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Naver Cloud Platform-green?style=flat-square&logo=naver&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-red?style=flat-square&logo=jsp&logoColor=white"/> 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoJun-Seo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns6659">
 
 <!--
 **HoJun-Seo/HoJun-Seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
