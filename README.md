@@ -37,6 +37,7 @@ Github 와 개인 기술 및 학습 블로그 입니다.
 - LOL 팀 모집, 매칭 및 커뮤니티 사이트 : [Pro.gg](https://progg.cf)
   - 프로젝트 자세히보기 : [Pro.gg GitHub Repository](https://github.com/pro-gg/project)
   - 프로젝트 회고록 : [Pro.gg-프로젝트 회고록](https://evan-development.tistory.com/95?category=967217)
+![메인화면](https://user-images.githubusercontent.com/48443312/131247698-82a1bf98-0102-4f78-83da-bb2113faa161.png)
 
 
 ## GitHub stat & Most Used Languages
