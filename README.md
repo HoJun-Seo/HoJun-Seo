@@ -41,7 +41,6 @@ Github 와 개인 기술 및 학습 블로그 입니다.
 
 - 일정 등록 및 휴대폰 문자알림 웹 사이트
   - 프로젝트 자세히보기 : [CallingDiary GitHub Repository](https://github.com/HoJun-Seo/Calling_Diary)
-  
 ![메인화면_로그인 이후](https://user-images.githubusercontent.com/48443312/184121195-e6cf485b-d9d1-4b27-a833-31bb44f37482.png)
 
 
