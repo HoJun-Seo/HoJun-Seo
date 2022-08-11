@@ -34,11 +34,13 @@ Github 와 개인 기술 및 학습 블로그 입니다.
 
 
 ## :ledger: 프로젝트
+### Pro.gg
 - LOL 팀 모집, 매칭 및 커뮤니티 사이트 : [Pro.gg](https://progg.cf) (서버 비용문제로 인해 현재는 운영하고 있지 않습니다.)
   - 프로젝트 자세히보기 : [Pro.gg GitHub Repository](https://github.com/pro-gg/project)
   - 프로젝트 회고록 : [Pro.gg-프로젝트 회고록](https://evan-development.tistory.com/95?category=967217)
 ![메인화면](https://user-images.githubusercontent.com/48443312/131247698-82a1bf98-0102-4f78-83da-bb2113faa161.png)
 
+### Calling Diary!
 - 일정 등록 및 휴대폰 문자알림 웹 사이트
   - 프로젝트 자세히보기 : [CallingDiary GitHub Repository](https://github.com/HoJun-Seo/Calling_Diary)
 ![메인화면_로그인 이후](https://user-images.githubusercontent.com/48443312/184121195-e6cf485b-d9d1-4b27-a833-31bb44f37482.png)
